@@ -1,3 +1,9 @@
+
+<!-- github-global:langs:start -->
+## Translations
+[日本語](./translations/ja/README.md)
+<!-- github-global:langs:end -->
+
 Glide
 =====
 
