@@ -1,7 +1,6 @@
-
 <!-- github-global:langs:start -->
 ## Translations
-[日本語](./translations/ja/README.md) | [繁體中文](./translations/zh-TW/README.md) | [English](./translations/en/README.md) | [한국어](./translations/ko/README.md)
+[日本語](./translations/ja/README.md)
 <!-- github-global:langs:end -->
 
 Glide
